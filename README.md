@@ -1,5 +1,4 @@
 # Telegram Torrent Leecher 🔥🤖
-[<b>JOIN OUR TORRENT LEECH GROUP<b>](https://telegram.dog/joinchat/OV5y_FarWaGaNYUIYr6J9w)
 
 A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
